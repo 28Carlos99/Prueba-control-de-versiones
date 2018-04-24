@@ -5,7 +5,7 @@ package uca.p3.modelo;
  * @author Carlos Gonzalez
  */
 public class Bien {
-
+// agregar texto
     private String descripcion;
     private int vidaUtil;
     private double valorContable;
